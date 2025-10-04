@@ -1,0 +1,110 @@
+[
+  {
+    "id": "TKT-001",
+    "title": "Application crashes on startup",
+    "description": "User reports that the mobile application crashes immediately after launching on an Android device running version 12.",
+    "customer": "Robert Davis",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-002",
+    "title": "Export to PDF function is not working",
+    "description": "When a user tries to export a report to a PDF file, the button is unresponsive. No file is generated and no error message is displayed.",
+    "customer": "Sarah Lee",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-003",
+    "title": "Request to add new user roles",
+    "description": "The administrative team needs two new custom roles with specific permissions for managing reports and user accounts.",
+    "customer": "Internal Team",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-004",
+    "title": "Search bar returns irrelevant results",
+    "description": "The search function for products is failing to return relevant results based on keywords entered by the user.",
+    "customer": "John Dek",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-005",
+    "title": "Account verification email not sending",
+    "description": "New users are not receiving the account verification email, preventing them from completing their registration.",
+    "customer": "Jane Doe",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-006",
+    "title": "Broken link on 'Help' page",
+    "description": "The link to the 'Troubleshooting' section on the main 'Help' page leads to a 404 error.",
+    "customer": "Michael Brown",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-007",
+    "title": "Incorrect order total on receipt",
+    "description": "The final total on a customer's digital receipt is incorrect. It is missing a discount that was applied during checkout.",
+    "customer": "Alex Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-008",
+    "title": "Server performance degradation",
+    "description": "The main application server is experiencing high load times during peak hours, causing a significant slowdown for all users.",
+    "customer": "System Report",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-009",
+    "title": "Request for feature: two-factor authentication",
+    "description": "Customers would like an option to enable two-factor authentication for enhanced account security.",
+    "customer": "Emily White",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-010",
+    "title": "User profile editing is bugged",
+    "description": "Users are unable to save changes to their profile information. The 'Save' button is unresponsive.",
+    "customer": "John Smith",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-011",
+    "title": "Visual glitch on dashboard",
+    "description": "A small visual glitch is present on the main dashboard where a graph is not rendering correctly, appearing as a blank space.",
+    "customer": "Community Forum",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": "TKT-012",
+    "title": "Missing products from category page",
+    "description": "A specific category page is not displaying all of the products that are supposed to be listed under it.",
+    "customer": "Lisa Chen",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-25"
+  }
+]

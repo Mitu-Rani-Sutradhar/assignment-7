@@ -2,7 +2,8 @@ import React from 'react';
 
 const Navbar = () => {
     return (
-     <div className="shadow-sm ">
+    
+       <div className="shadow-sm ">
    
  <div className="flex justify-between max-w-[1200px] mx-auto bg-[#FFFFFF] py-3">
      <div className="navbar-start">
@@ -22,7 +23,8 @@ const Navbar = () => {
   </div>
  </div>
 </div>  
-            
+       
+       
     
     );
 };
