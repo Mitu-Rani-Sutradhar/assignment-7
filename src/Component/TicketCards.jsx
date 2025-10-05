@@ -11,7 +11,7 @@ const handleTicket =(ticket)=>{
     console.log(ticket)
     alert("something is heppen on task Status")
 
-    setTaskTicket([...taskTicket,ticketData])
+    setTaskTicket([...taskTicket,ticket])
 
 }
 
