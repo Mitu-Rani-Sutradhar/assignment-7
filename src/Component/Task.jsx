@@ -2,7 +2,7 @@ import TaskCard from "./taskCard";
 
 
 const Task = ({taskTicket}) => {
-    console.log(taskTicket)
+    // console.log(taskTicket)
     return (
         
               <div className='w-3/12'>

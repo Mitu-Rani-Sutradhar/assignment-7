@@ -20,7 +20,7 @@ function App() {
    const ticketsPromise = fetchTickets()
 
     const [taskTicket,setTaskTicket] = useState([])
-   console.log(taskTicket)
+  //  console.log(taskTicket)
   return (
     <>
 

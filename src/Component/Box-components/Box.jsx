@@ -3,7 +3,7 @@ import BoxImg from "../../assets/vector1.png"
 import { Ticket } from 'lucide-react';
 
 const Box = ({taskTicket}) => {
-  console.log(taskTicket)
+  // console.log(taskTicket)
 
    
     return (

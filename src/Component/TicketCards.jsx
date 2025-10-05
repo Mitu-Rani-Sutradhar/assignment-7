@@ -33,7 +33,7 @@ const handleTicket =(ticket)=>{
                </div>
         </div>
     
-        <div className='max-w-[1200px] mx-auto flex justify-between'>
+        <div className='max-w-[1200px] mx-auto md:flex justify-between'>
         {/* <div className='flex justify-between'>
             <div>
                 <h1 className='my-3 font-bold text-xl text-[#34485A]'>Customer Tickets</h1>
@@ -44,10 +44,10 @@ const handleTicket =(ticket)=>{
                </div>
         </div> */}
         
-                <div className='card-container w-9/12 grid grid-cols-2 gap-5'>
+                <div className='card-container w-9/12 grid grid-cols-1 md:grid-cols-2 gap-5'>
     
               {
-               ticketData.map(ticket=> <div setTaskTicket={setTaskTicket} taskTicket={taskTicket} onClick={() => handleTicket(ticket)} className='card w-[430px] h-[175px] p-2 gap-1 bg-[#FFFFFF] shadow-xl'>
+               ticketData.map(ticket=> <div onClick={() => handleTicket(ticket)} className='card w-[430px] h-[175px] p-2 gap-1 bg-[#FFFFFF] shadow-xl'>
                  <div className='card-title flex justify-between '>
                     <h3>{ticket.title}</h3>
                     <p className={`p-2  rounded-3xl text-n normal h-[40px] flex justify-between ${

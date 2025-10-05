@@ -2,7 +2,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <div className="bg-black">
-           <div className="max-w-[1200px] mx-auto flex justify-between pt-15">
+           <div className="max-w-[1200px] mx-auto md:flex justify-between pt-15">
 
             <div className="text-white w-[350px] h-[186px]">
               <h1 className='text-medium font-bold pb-4'>CS — Ticket System </h1>
